@@ -27,7 +27,7 @@ Main Page:
 
 Article Page:
 
-<img src=https://github.com/shenghuayou/social-media-iOS-app/blob/master/Demo_Image/3.png />
+<img src=https://github.com/shenghuayou/social-media-iOS-app/blob/master/Demo_Image/3.PNG />
 ***
 
 Comment Page:
